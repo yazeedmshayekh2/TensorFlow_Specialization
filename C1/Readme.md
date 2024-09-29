@@ -1,6 +1,6 @@
 # Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 
-[C1_Certification.pdf](https://github.com/user-attachments/files/17178576/C1_Certification.pdf)
+![C1_Certification-1](https://github.com/user-attachments/assets/09048cbf-4ffa-4818-a3e9-dd43950886ca)
 
 ## Course 
 
